@@ -24,7 +24,7 @@ namespace ExemploPilhaDinamica2022
 
         public override string ToString()
         {
-            return "\nDados do livro:\nTitulo: " + this.Titulo + "\nAutor: " + this.Autor + "\nISBN: " + this.ISBN;
+            return "\n\t\tDados do livro:\n\t\tTitulo: " + this.Titulo + "\n\t\tAutor: " + this.Autor + "\n\t\tISBN: " + this.ISBN;
         }
     }
 }
